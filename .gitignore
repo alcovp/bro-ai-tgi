@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+.env
+
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Cache files and temporary files
+.yarn/cache
+.yarn/install-state.gz
+.pnp.*
