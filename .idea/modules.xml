@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bro-ai.iml" filepath="$PROJECT_DIR$/.idea/bro-ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bro-ai-tgi.iml" filepath="$PROJECT_DIR$/.idea/bro-ai-tgi.iml" />
     </modules>
   </component>
 </project>

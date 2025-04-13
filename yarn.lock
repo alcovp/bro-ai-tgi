@@ -291,9 +291,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bro-ai@workspace:.":
+"bro-ai-tgi@workspace:.":
   version: 0.0.0-use.local
-  resolution: "bro-ai@workspace:."
+  resolution: "bro-ai-tgi@workspace:."
   dependencies:
     "@types/node": "npm:^22.14.1"
     axios: "npm:^1.8.4"
